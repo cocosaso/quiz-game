@@ -1,0 +1,13 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.question-section {
+  margin-bottom: 20px;
+}
+.answer-section button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
